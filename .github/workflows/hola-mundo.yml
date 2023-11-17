@@ -1,4 +1,4 @@
-name: hola-mundo2 #Nombre del workflow
+name: hola-mund2 #Nombre del workflow
 on: [push] #evento que lo activará
 jobs:
   hola-mundo: #Nombre del job
